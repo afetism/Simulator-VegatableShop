@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\f-1\f-1\bin\Debug\net7.0\Final project-Simulator.exe
+C:\Users\user\source\repos\f-1\f-1\bin\Debug\net7.0\Final project-Simulator.deps.json
+C:\Users\user\source\repos\f-1\f-1\bin\Debug\net7.0\Final project-Simulator.runtimeconfig.json
+C:\Users\user\source\repos\f-1\f-1\bin\Debug\net7.0\Final project-Simulator.dll
+C:\Users\user\source\repos\f-1\f-1\bin\Debug\net7.0\Final project-Simulator.pdb
+C:\Users\user\source\repos\f-1\f-1\obj\Debug\net7.0\Final project-Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\f-1\f-1\obj\Debug\net7.0\Final project-Simulator.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\f-1\f-1\obj\Debug\net7.0\Final project-Simulator.AssemblyInfo.cs
+C:\Users\user\source\repos\f-1\f-1\obj\Debug\net7.0\Final project-Simulator.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\f-1\f-1\obj\Debug\net7.0\Final project-Simulator.dll
+C:\Users\user\source\repos\f-1\f-1\obj\Debug\net7.0\refint\Final project-Simulator.dll
+C:\Users\user\source\repos\f-1\f-1\obj\Debug\net7.0\Final project-Simulator.pdb
+C:\Users\user\source\repos\f-1\f-1\obj\Debug\net7.0\Final project-Simulator.genruntimeconfig.cache
+C:\Users\user\source\repos\f-1\f-1\obj\Debug\net7.0\ref\Final project-Simulator.dll
